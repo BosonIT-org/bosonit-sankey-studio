@@ -1,11 +1,17 @@
-# BIT Sankey Studio (by BosonIT)
+# BosonIT Sankey Studio
 
-BosonIT Sankey Studio — a BosonIT-branded editor to create, embed, and export Sankey diagrams using D3.
+BosonIT Sankey Studio is a BosonIT-branded editor to create, embed, and export Sankey diagrams using D3.
 
-- Editor: D3-based node/link editing, theming.
-- Data: JSON import/export.
-- Export: PNG/SVG/HTML.
-- Embed: lightweight read-only widget.
+Features
+- Editor: intuitive node/link editing, theming, and layout.
+- Data: JSON import/export for reproducible diagrams.
+- Export: PNG/SVG/HTML for sharing and publishing.
+- Embed: lightweight read-only widget for docs and sites.
 
-Triage: This repo is fed by SuperGrok/BAG assessments (Gemini/Grok). Labels follow area/* and severity/S*-*.
+Roadmap
+- Track planned work and issues in this repository’s Issues tab.
+
+Contributing
+- Issues and pull requests are welcome.
+
 
